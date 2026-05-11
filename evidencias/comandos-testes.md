@@ -6,6 +6,10 @@ Roteiro de comandos para gerar evidências (capturas/logs) da atividade
 > Execute cada bloco no WSL2 Ubuntu e capture o terminal (Print do VS Code /
 > screenshot da janela). Os comandos `tail` mostram a linha exata que o Squid
 > registrou no momento do teste.
+>
+> Salve as capturas em [`screenshots/`](screenshots/) com a convenção
+> `0X-nome-curto.png`, onde `X` é o número do bloco abaixo. Exemplo:
+> `01-servicos-ativos.png`, `03-tarefa-a-bloqueio.png`, `08-chrome-bloqueio.png`.
 
 ---
 

@@ -1,0 +1,13 @@
+# Coloque aqui as capturas de tela das evidências da atividade.
+#
+# Convenção sugerida (alinhada com evidencias/comandos-testes.md):
+#   01-servicos-ativos.png            -> bloco 1
+#   02-nginx-direto.png               -> bloco 2
+#   03-tarefa-a-bloqueio.png          -> bloco 3
+#   04-tarefa-a-excecao-ip.png        -> bloco 4
+#   05-tarefa-b-download.png          -> bloco 5
+#   06-tarefa-b-upload.png            -> bloco 6
+#   07-logs-squid.png                 -> bloco 7
+#   08-chrome-bloqueio.png            -> bloco 8
+#
+# Este arquivo .gitkeep mantém a pasta no repositório mesmo vazia.
