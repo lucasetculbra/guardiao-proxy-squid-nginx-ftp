@@ -1,0 +1,18 @@
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
+*.lnk
+
+# Editores
+.vscode/
+*.swp
+*.swo
+*~
+
+# Backups dos scripts
+*.bak
+
+# Arquivos temporários gerados pelos testes
+/tmp/
+saida.dat
+saida.txt
